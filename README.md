@@ -2,3 +2,5 @@
 
 It must contain Symfony!
 
+And must run Linux!
+
